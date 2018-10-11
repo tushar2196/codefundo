@@ -1,1 +1,4 @@
-# codefundo-
+# codefundo
+Team - BLUE RANGERS
+Our Team will totally focus on compressing the videos and images that are monitored by satellites so that any activity related to natural disaster like storms, cyclones, eathquakes in the middle of ocean or other remote areas using seismometers satellites can be analysed before they hit to shores or cause massive destruction. 
+The application that we will develope will not only notifies about the natural disaster activites in nearby locations but also can show it live using video compression techniques. We will build a model that will convert the high resolution blocks to low resolution blocks, decrease the contrast ratio ..... this compressed video can be transferred via network even at low signal quality. The app will decompress the video at application's end. Using this application coast guards and other nearby people can take quick actions and can get prepare for these threats, save lives.
